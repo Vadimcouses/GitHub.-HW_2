@@ -1,0 +1,9 @@
+
+The defect report template that meets the requirements of the tester and programmer looks like this:
+1. Error header
+2. Error description
+3. Initial conditions
+4. Playback Steps
+5. Expected result
+6. Actual result
+7. Attachments
